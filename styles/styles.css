@@ -1,0 +1,19 @@
+* {
+    background-color: #fcf6bd;
+}
+
+h1,
+h2 {
+    color: #854d27;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+p,
+li {
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+img {
+    border-radius: 12%;
+}
