@@ -1,5 +1,7 @@
 * {
     background-color: #fcf6bd;
+    margin-left: 12px;
+    margin-right: 12px;
 }
 
 h1,
@@ -12,6 +14,10 @@ p,
 li {
     color: black;
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+li {
+    font-style: italic;
 }
 
 img {
