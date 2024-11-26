@@ -1,23 +1,41 @@
 * {
     background-color: #fcf6bd;
-    margin-left: 12px;
-    margin-right: 12px;
+    box-sizing: border-box;
+}
+
+body {
+    width: 700px;
+    margin: 12px auto;
+    border: solid black 2px;
+    border-radius: 10px;
+    padding: 0 15px;
+    background-color: #fec196;
 }
 
 h1,
 h2 {
     color: #854d27;
     font-family: Verdana, Tahoma, sans-serif;
+    background-color: inherit;
+}
+
+ul,
+ol {
+    background-color: inherit;
 }
 
 p,
 li {
     color: black;
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    background-color: inherit;
 }
 
 li {
     font-style: italic;
+}
+a {
+    background-color: inherit;
 }
 
 img {
